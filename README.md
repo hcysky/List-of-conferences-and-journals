@@ -9,5 +9,6 @@
 ### B [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 
 
+### C [计算机科学知名期刊与会议](https://comydream.github.io/journals-and-conferences/)
 
 
